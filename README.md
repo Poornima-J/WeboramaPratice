@@ -1,2 +1,2 @@
-Consists of codes done as part of pratice.
+Consists of codes done as part of practice.
 
